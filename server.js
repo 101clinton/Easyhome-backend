@@ -1,4 +1,6 @@
-//This is where my sever code will be
-//i.e To listen on a port
+const express = require("express");
+const app = express();
 
-//This is our server and this is where the application will actually run.
+app.listen(3000, () => {
+  console.log(`App listening on  port ${3000}`);
+});
