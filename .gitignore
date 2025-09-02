@@ -1,0 +1,2 @@
+#It is going to ignore any file that we put here when trying to add that file to github
+#(If a file or folder name is here, it will never be posssible for it to go to github)

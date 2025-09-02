@@ -1,0 +1,20 @@
+{
+  "name": "easyhome-backend",
+  "version": "1.0.0",
+  "description": "A home realestate backend API",
+  "homepage": "https://github.com/101clinton/Easyhome-backend#readme",
+  "bugs": {
+    "url": "https://github.com/101clinton/Easyhome-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/101clinton/Easyhome-backend.git"
+  },
+  "license": "ISC",
+  "author": "Clinton likuka",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  }
+}

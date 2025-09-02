@@ -1,0 +1,46 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1751998816246-c63d182770c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBhcGFydG1lbnQlMjBpbnRlcmlvcnxlbnwxfHx8fDE3NTY1ODcwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "title": "Luxury Downtown Apartment",
+    "price": "$750,000",
+    "location": "Downtown, New York",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1850,
+    "type": "Apartment",
+    "status": "For Sale"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1641823911769-c55f23c25143?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVuJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzU2NTkxNzQxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "title": "Elegant Family Mansion",
+    "price": "$2,500,000",
+    "location": "Beverly Hills, CA",
+    "beds": 6,
+    "baths": 5,
+    "sqft": 4200,
+    "type": "House",
+    "status": "For Sale"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1641823911769-c55f23c25143?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVuJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzU2NTkxNzQxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "title": "Modern Kitchen Condo",
+    "price": "$4,200/month",
+    "location": "Midtown, Chicago",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1200,
+    "type": "Condo",
+    "status": "For Rent"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxob3VzZSUyMGZvciUyMHNhbGV8ZW58MXx8fHwxNzU2NjM3NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "title": "Suburban Family Home",
+    "price": "$485,000",
+    "location": "Westfield, NJ",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2400,
+    "type": "House",
+    "status": "For Sale"
+  }
+]
